@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am Aman Gupta and I am an Android and Flutter developer with over 1+ years of experience in Android and 7+ months in Flutter.
+- I am Aman Gupta and I am an Android and Flutter developer with over 2 years of experience in Android and Flutter.
 
 ### Languages and Tools:
 
