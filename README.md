@@ -37,4 +37,10 @@
 </br>
 </br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thealteria&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakLabel=DDDDDD)](https://github.com/thealteria/)
+</br>
+</br>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
 
