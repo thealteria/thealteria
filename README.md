@@ -1,10 +1,13 @@
+## Aman Gupta | ॐ
 ### Hi there 👋
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thealteria)
-<a href="https://linkedin.com/in/thealteria" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/11104857/aman-gupta" target="_blank"><img height="25" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;<a target="_blank"><img height="25" src="https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple"></a>&nbsp;&nbsp;
 
 ⚡ I am Aman Gupta and I am an Android and Flutter developer with over 2.4 years of experience in Android and Flutter.
 
-### Languages and Tools:
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thealteria)
+<a href="https://linkedin.com/in/thealteria" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/11104857/aman-gupta" target="_blank"><img height="25" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;<a target="_blank"><img height="25" src="https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple"></a>&nbsp;&nbsp;
+</br>
+
+## Languages and Tools:
 
 <!-- <img align="left" alt="Android" width="52px" src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" />
 <img align="left" alt="Java" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -40,7 +43,7 @@
 </br>
 </br>
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
