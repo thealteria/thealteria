@@ -46,4 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Reopened issue [#89833](https://github.com/flutter/flutter/issues/89833) in [flutter/flutter](https://github.com/flutter/flutter)
+2. ❗️ Closed issue [#89833](https://github.com/flutter/flutter/issues/89833) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#89833](https://github.com/flutter/flutter/issues/89833) in [flutter/flutter](https://github.com/flutter/flutter)
+4. ❗️ Opened issue [#89833](https://github.com/flutter/flutter/issues/89833) in [flutter/flutter](https://github.com/flutter/flutter)
+<!--END_SECTION:activity-->
 
