@@ -46,9 +46,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#234](https://github.com/VeryGoodOpenSource/very_good_cli/issues/234) in [VeryGoodOpenSource/very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli)
+1. ❗️ Opened issue [#2](https://github.com/ThomasEcalle/app_starter/issues/2) in [ThomasEcalle/app_starter](https://github.com/ThomasEcalle/app_starter)
 2. 🗣 Commented on [#234](https://github.com/VeryGoodOpenSource/very_good_cli/issues/234) in [VeryGoodOpenSource/very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli)
-3. ❗️ Opened issue [#234](https://github.com/VeryGoodOpenSource/very_good_cli/issues/234) in [VeryGoodOpenSource/very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli)
-4. ❗️ Opened issue [#89833](https://github.com/flutter/flutter/issues/89833) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#234](https://github.com/VeryGoodOpenSource/very_good_cli/issues/234) in [VeryGoodOpenSource/very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli)
+4. ❗️ Opened issue [#234](https://github.com/VeryGoodOpenSource/very_good_cli/issues/234) in [VeryGoodOpenSource/very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli)
 <!--END_SECTION:activity-->
 
