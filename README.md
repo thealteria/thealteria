@@ -1,10 +1,11 @@
 ## Aman Gupta | ॐ
 <h2>
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<!--   Namastey <img src="https://media.giphy.com/media/RMZWv7UqikFGIvv6m4/giphy.gif" width="50"> -->
+  Namastey <img src="https://i.imgur.com/fMEIRu7.gif" width="35">
 </h2>
-<!-- ### Hi there 👋 -->
+<!-- ### Namastey 🙏 -->
 
-⚡ I am <b>Aman Gupta</b> and I am an <b>Android and Flutter developer</b> with over 2.5 years of experience.
+⚡ I am <b>Aman Gupta</b> and I am an <b>Android and Flutter developer</b> with over 3.8 years of experience.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thealteria)
 <a href="https://linkedin.com/in/thealteria" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/11104857/aman-gupta" target="_blank"><img height="25" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/thealteria" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
